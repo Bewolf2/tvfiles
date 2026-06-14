@@ -1,0 +1,11 @@
+# Ignore the .dev folder
+.dev/
+
+# Ignore all .bat files in the root directory
+/*.bat
+
+# Ignore python cache folders
+__pycache__/
+pycache/
+*.py[cod]
+*$py.class
