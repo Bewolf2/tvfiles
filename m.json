@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆豆推荐",
-            "name": "公众号|不会唱歌的鱼妖",
+            "name": "公众号|不会唱歌的鱼�,
             "type": 3,
             "api": "csp_DouDouGuard",
             "searchable": 0,
@@ -80,7 +80,74 @@
             "changeable": 1,
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "siteUrl": "https://www.libvio.pw/"
+                "siteUrl": "https://www.libvio.cam/"
+            }
+        },
+        {
+            "key": "Libvio",
+            "name": "Libvio",
+            "type": 3,
+            "api": "./py/libvio/libvio.py",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "siteUrl": "https://www.libvio.cam/"
+            }
+        },
+        {
+            "key": "Libvio_Py",
+            "name": "Libvio Py",
+            "type": 3,
+            "api": "./py/libvio/libvio.py",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "siteUrl": "https://www.libvio.cam/"
+            }
+        },
+        {
+            "key": "iKanBot",
+            "name": "iKanBot",
+            "type": 3,
+            "api": "./py/ikanbot/ikanbot.py",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "siteUrl": "https://www2.ikanbot.com/"
+            }
+        },
+        {
+            "key": "AgeDM",
+            "name": "Age 动漫",
+            "type": 3,
+            "api": "./py/agedm/agedm.py",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "siteUrl": "https://www.agedm.io/"
+            }
+        },
+        {
+            "key": "Dm84",
+            "name": "巴士动漫(Py)",
+            "type": 3,
+            "api": "./py/dm84/dm84.py",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "siteUrl": "https://www.dm845.com/"
             }
         },
         {
@@ -106,8 +173,8 @@
             "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
         },
         {
-            "key": "新6V磁力",
-            "name": "新6V磁力",
+            "key": "�V磁力",
+            "name": "�V磁力",
             "type": 3,
             "api": "csp_SixVGuard",
             "timeout": 10,
@@ -167,7 +234,7 @@
             }
         },
         {
-            "key": "兔小贝-drpy",
+            "key": "兔小�drpy",
             "name": "儿童启蒙",
             "type": 3,
             "api": "./js/drpymin2.js",
@@ -206,22 +273,22 @@
             "categories": [
                 "国产动漫",
                 "日韩动漫",
-                "国产剧",
-                "韩国剧",
-                "日本剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
+                "国产�,
+                "韩国�,
+                "日本�,
+                "动作�,
+                "喜剧�,
+                "爱情�,
+                "科幻�,
                 "恐怖片",
-                "剧情片",
-                "战争片",
-                "台湾剧",
-                "香港剧",
-                "欧美剧",
-                "记录片",
-                "海外剧",
-                "泰国剧",
+                "剧情�,
+                "战争�,
+                "台湾�,
+                "香港�,
+                "欧美�,
+                "记录�,
+                "海外�,
+                "泰国�,
                 "大陆综艺",
                 "港台综艺",
                 "日韩综艺",
@@ -233,7 +300,7 @@
                 "足球",
                 "篮球",
                 "网球",
-                "斯诺克"
+                "斯诺�
             ]
         },
         {
@@ -246,23 +313,23 @@
             "categories": [
                 "国产动漫",
                 "日韩动漫",
-                "国产剧",
-                "韩国剧",
-                "日本剧",
-                "动漫片",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
+                "国产�,
+                "韩国�,
+                "日本�,
+                "动漫�,
+                "动作�,
+                "喜剧�,
+                "爱情�,
+                "科幻�,
                 "恐怖片",
-                "剧情片",
-                "战争片",
-                "香港剧",
-                "欧美剧",
-                "记录片",
-                "台湾剧",
-                "海外剧",
-                "泰国剧",
+                "剧情�,
+                "战争�,
+                "香港�,
+                "欧美�,
+                "记录�,
+                "台湾�,
+                "海外�,
+                "泰国�,
                 "大陆综艺",
                 "港台综艺",
                 "日韩综艺",
@@ -274,7 +341,7 @@
         },
         {
             "key": "YpanSo",
-            "name": "盘她┃三盘",
+            "name": "盘她┃三�,
             "type": 3,
             "api": "csp_YpanSoGuard",
             "searchable": 1,
@@ -287,7 +354,7 @@
         },
         {
             "key": "xzso",
-            "name": "盘它┃三盘",
+            "name": "盘它┃三�,
             "type": 3,
             "api": "csp_XzsoGuard",
             "searchable": 1,
@@ -437,7 +504,7 @@
     ],
     "ijk": [
         {
-            "group": "硬解码",
+            "group": "硬解�,
             "options": [
                 {
                     "category": 4,
@@ -517,7 +584,7 @@
             ]
         },
         {
-            "group": "软解码",
+            "group": "软解�,
             "options": [
                 {
                     "category": 4,
